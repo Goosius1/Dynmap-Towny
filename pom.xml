@@ -55,7 +55,7 @@
         <dependency>
             <groupId>org.bukkit</groupId>
             <artifactId>bukkit</artifactId>
-            <version>1.13.2</version>
+            <version>1.14.4-R0.1-SNAPSHOT</version>
             <scope>system</scope>
             <systemPath>${project.basedir}/deps/bukkit-1.13.2.jar</systemPath>
         </dependency>
@@ -67,16 +67,16 @@
         <dependency>
             <groupId>com.palmergames.bukkit.towny</groupId>
             <artifactId>Towny</artifactId>
-            <version>0.95.2.15</version>
+            <version>0.95.2.16</version>
             <scope>system</scope>
-            <systemPath>${project.basedir}/deps/Towny-0.95.2.15.jar</systemPath>
+            <systemPath>${project.basedir}/deps/Towny-0.95.2.16.jar</systemPath>
         </dependency>
         <dependency>
             <groupId>com.palmergames</groupId>
             <artifactId>TownyChat</artifactId>
-            <version>0.65</version>
+            <version>0.63</version>
             <scope>system</scope>
-            <systemPath>${project.basedir}/deps/TownyChat-0.65.jar</systemPath>
+            <systemPath>${project.basedir}/deps/TownyChat-0.63.jar</systemPath>
         </dependency>
     </dependencies>
     <properties>
